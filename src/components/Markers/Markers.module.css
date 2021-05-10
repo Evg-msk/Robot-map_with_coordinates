@@ -1,0 +1,47 @@
+.Marker::before {
+    content: "";
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: url("./assets/location.svg") no-repeat;
+}
+
+.energyBase {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transition: all .2s;
+}
+
+.washRoom {
+    position: absolute;
+    left: 73%;
+    top: 25%;
+    transition: all .2s;
+}
+
+.order {
+    position: absolute;
+    left: 20%;
+    top: 58%;
+    transition: all .2s;
+}
+
+.dropdown {
+    position: absolute;
+    top: 28px;
+    width: 150px;
+    padding: 2px;
+    right: 0;
+    left: 0;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: #f3fe2c;
+    background: rgba(145, 144, 144, 0.73);
+}
+.energyBase:hover,
+.order:hover,
+.washRoom:hover {
+    transform: translateY(-20%);
+    cursor: pointer;
+}

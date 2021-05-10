@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.Map {
+    margin: 0 auto;
+    position: relative;
+    width: 875px;
+    height: 560px;
+}
+.Map img {
+    max-width: 100%;
+}

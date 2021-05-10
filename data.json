@@ -1,0 +1,27 @@
+[
+  {
+    "markers": [
+      {
+        "name": "energy-base",
+        "id": 1,
+        "x": "52.00.5899",
+        "y": "50.02.5444",
+        "isVisible": false
+      },
+      {
+        "name": "washroom",
+        "id": 2,
+        "x": "46.00.5899",
+        "y": "48.12.5444",
+        "isVisible": false
+      },
+      {
+        "name": "order №1",
+        "id": 3,
+        "x": "11.07.001",
+        "y": "11.02.0044",
+        "isVisible": false
+      }
+    ]
+  }
+]
