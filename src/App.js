@@ -76,10 +76,9 @@ const App = () => {
     //
     //     document.addEventListener('mousemove', onMouseMove);
     //
-    //     // // отпустить мяч, удалить ненужные обработчики
-    //     // ball.onmouseup = function() {
+    //     // img.current.onmouseup = function() {
     //     //     document.removeEventListener('mousemove', onMouseMove);
-    //     //     ball.onmouseup = null;
+    //     //     img.current.onmouseup = null;
     //     // };
     // };
 
